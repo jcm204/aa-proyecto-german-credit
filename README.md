@@ -36,8 +36,8 @@ AA-PROYECTO-HMDA-NY/
 ├── 📁 outputs/
 │   └── images/                             # Gráficos exportados
 ├── 📁 report/
-    ├── report.tex/ 
-    └── report.pdf/
+    ├── report.tex
+    └── report.pdf
 ├── 📄 .gitignore
 ├── 📄 README.md
 └── 📄 requirements.txt
