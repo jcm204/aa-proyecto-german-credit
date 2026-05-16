@@ -39,6 +39,7 @@ AA-PROYECTO-HMDA-NY/
     ├── report.tex
     └── report.pdf
 ├── 📄 .gitignore
+├── 📄 hmda-presentacion.html              # Archivo para exposición
 ├── 📄 README.md
 └── 📄 requirements.txt
 ```
