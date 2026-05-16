@@ -35,7 +35,9 @@ AA-PROYECTO-HMDA-NY/
 │   └── 04_Modelo_Mitigado_XAI.ipynb        # Mitigación con Fairlearn + SHAP post-mitigación
 ├── 📁 outputs/
 │   └── images/                             # Gráficos exportados
-├── 📁 report/                             # Informe (archivos .tex)
+├── 📁 report/
+    ├── report.tex/ 
+    └── report.pdf/
 ├── 📄 .gitignore
 ├── 📄 README.md
 └── 📄 requirements.txt
